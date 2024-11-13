@@ -1,2 +1,2 @@
-# BlogPic
-my blog imagse
+# MyPic
+my images
